@@ -1,0 +1,27 @@
+#parent {
+    background-color: aquamarine;
+    position:relative;
+}
+
+
+   
+
+
+
+#child-one{
+background-color: black;
+position:relative;
+left:10px;
+}
+
+#child-tow{
+     background-color: brown;
+     position:absolute;
+     top:10px;
+}
+
+#child-three{
+    background-color: burlywood;
+    position:sticky;
+    top:10px;
+}
